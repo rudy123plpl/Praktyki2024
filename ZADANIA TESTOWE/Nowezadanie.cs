@@ -17,8 +17,7 @@ namespace siszarp
             Console.WriteLine("Podaj czwartą liczbę:");
             int number4 = int.Parse(Console.ReadLine());
 
-            
-            bool allEven = (number1 % 2 == 0) && (number2 % 2 == 0) && (number3 % 2 == 0) && (number4 % 2 == 0);
+              bool allEven = (number1 % 2 == 0) && (number2 % 2 == 0) && (number3 % 2 == 0) && (number4 % 2 == 0);
 
             
             if (allEven)
