@@ -5,7 +5,6 @@ namespace siszarp
     {
         static void Main(string[]args)
         {
-            
             Console.WriteLine("Podaj pierwszą liczbę:");
             int number1 = int.Parse(Console.ReadLine());
 
