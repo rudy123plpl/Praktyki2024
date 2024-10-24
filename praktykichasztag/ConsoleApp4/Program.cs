@@ -5,34 +5,34 @@ namespace drugiprojekt
     {
         static void Main(string[] args)
         {
+            int[] numbers = new int[4]; 
+            bool inputValid;
 
-            Console.WriteLine("Podaj pierwszą liczbę:");
-            int number1 = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Podaj drugą liczbę:");
-            int number2 = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Podaj trzecią liczbę:");
-            int number3 = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Podaj czwartą liczbę:");
-            int number4 = int.Parse(Console.ReadLine());
-
-
-            bool allEven = (number1 % 2 == 0) && (number2 % 2 == 0) && (number3 % 2 == 0) && (number4 % 2 == 0);
-
-
-            if (allEven)
+            for (int i = 0; i < numbers.Length; i++)
             {
-                Console.WriteLine("Czy wszystkie liczby są parzyste? Tak");
+                do
+                {
+                    Console.WriteLine($"Podaj liczbę {i + 1}:");
+                    inputValid = int.TryParse(Console.ReadLine(), out numbers[i]);
+
+                    if (!inputValid)
+                    {
+                        Console.WriteLine("To nie jest poprawna liczba. Spróbuj ponownie.");
+                    }
+                } while (!inputValid); 
             }
-            else
+
+            bool allEven = true;
+            foreach (int number in numbers)
             {
-                Console.WriteLine("Czy wszystkie liczby są parzyste? Nie");
+                if (number % 2 != 0)
+                {
+                    allEven = false;
+                    break; 
+                }
             }
+
+            Console.WriteLine("Czy wszystkie liczby są parzyste? " + (allEven ? "Tak" : "Nie"));
         }
     }
 }
-
-
-
