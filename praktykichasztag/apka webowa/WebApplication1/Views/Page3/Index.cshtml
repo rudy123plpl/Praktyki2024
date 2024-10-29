@@ -1,0 +1,14 @@
+﻿@model WebApplication1.Models.Page3Model
+
+<h1>@Model.Brand - @Model.Model</h1>
+<p>Battery Life: @Model.BatteryLife hours</p>
+
+
+@{
+    int count = 0;
+    do
+    {
+        <p>Smartphone Feature @count</p>
+        count++;
+    } while (count < 3);
+}

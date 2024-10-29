@@ -1,0 +1,16 @@
+﻿@model WebApplication1.Models.Page1Model
+
+<h1>@Model.Brand Smartwatch</h1>
+<p>GPS: @(Model.HasGPS ? "Yes" : "No")</p>
+<p>Battery Life: @Model.BatteryLife hours</p>
+
+
+@{
+    int count = 0;
+    do
+    {
+        <p>Smartwatch Feature @count</p>
+        count++;
+    } while (count < 3);
+    <img src="@Model.ImageUrl" alt="@Model.Brand Smartwatch" style="max-width:300px;">
+}

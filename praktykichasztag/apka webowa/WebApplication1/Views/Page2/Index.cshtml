@@ -1,0 +1,13 @@
+﻿@model WebApplication1.Models.Page2Model
+
+<h1>@Model.Brand Laptop</h1>
+<p>Processor: @Model.Processor</p>
+<p>RAM: @Model.RAM GB</p>
+
+
+@{
+    for (int i = 1; i <= 3; i++)
+    {
+        <p>Laptop Feature @i</p>
+    }
+}

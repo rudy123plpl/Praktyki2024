@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|c:\\users\\filip\\desktop\\kutas\\webapplication1\\models\\page1model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|solutionrelative:models\\page1model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|c:\\users\\filip\\desktop\\kutas\\webapplication1\\controllers\\page1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|solutionrelative:controllers\\page1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|c:\\users\\filip\\desktop\\kutas\\webapplication1\\views\\page1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|solutionrelative:views\\page1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|c:\\users\\filip\\desktop\\kutas\\webapplication1\\views\\page2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|solutionrelative:views\\page2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|c:\\users\\filip\\desktop\\kutas\\webapplication1\\views\\page3\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|solutionrelative:views\\page3\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|c:\\users\\filip\\desktop\\kutas\\webapplication1\\models\\page3model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|solutionrelative:models\\page3model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|c:\\users\\filip\\desktop\\kutas\\webapplication1\\controllers\\page3controller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|solutionrelative:controllers\\page3controller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|c:\\users\\filip\\desktop\\kutas\\webapplication1\\models\\page2model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|solutionrelative:models\\page2model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|c:\\users\\filip\\desktop\\kutas\\webapplication1\\controllers\\page2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D07BE99-85E6-4F12-8537-BAF842A8EDDA}|WebApplication1.csproj|solutionrelative:controllers\\page2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page1Model.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Models\\Page1Model.cs",
+              "RelativeDocumentMoniker": "Models\\Page1Model.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Models\\Page1Model.cs",
+              "RelativeToolTip": "Models\\Page1Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:43:05.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Controllers\\Page1Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Page1Controller.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Controllers\\Page1Controller.cs",
+              "RelativeToolTip": "Controllers\\Page1Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:43:00.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Views\\Page3\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Page3\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Views\\Page3\\Index.cshtml",
+              "RelativeToolTip": "Views\\Page3\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T09:41:24.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page3Model.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Models\\Page3Model.cs",
+              "RelativeDocumentMoniker": "Models\\Page3Model.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Models\\Page3Model.cs",
+              "RelativeToolTip": "Models\\Page3Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:41:15.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page3Controller1.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Controllers\\Page3Controller1.cs",
+              "RelativeDocumentMoniker": "Controllers\\Page3Controller1.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Controllers\\Page3Controller1.cs",
+              "RelativeToolTip": "Controllers\\Page3Controller1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:41:11.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page2Model.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Models\\Page2Model.cs",
+              "RelativeDocumentMoniker": "Models\\Page2Model.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Models\\Page2Model.cs",
+              "RelativeToolTip": "Models\\Page2Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:40:55.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Page2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Controllers\\Page2Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Page2Controller.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Controllers\\Page2Controller.cs",
+              "RelativeToolTip": "Controllers\\Page2Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:40:51.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Views\\Page2\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Page2\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Views\\Page2\\Index.cshtml",
+              "RelativeToolTip": "Views\\Page2\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T09:40:39.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Views\\Page1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Page1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\kutas\\WebApplication1\\Views\\Page1\\Index.cshtml",
+              "RelativeToolTip": "Views\\Page1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T09:40:24.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
