@@ -1,0 +1,13 @@
+﻿@model Assignment
+@{
+    ViewBag.Title = $"Delete {Model.Name} Assignment";
+}
+<h3>Are you sure you want to DELETE this?</h3>
+<div>
+    <h4>@Model.Name</h4>
+    <form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="AssignmentId"/>
+    <input type="submit" value="Delete" class="btn btn-danger" />
+    <a asp-action="Index" class="=btn btn-default">Back to list</a>
+    </form>
+</div>

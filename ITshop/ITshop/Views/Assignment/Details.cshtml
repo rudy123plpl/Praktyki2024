@@ -1,0 +1,32 @@
+﻿@model Assignment
+@{
+    ViewBag.Title = "Assignment Details";
+}
+<h1> @Model.Name Details</h1>
+
+@if(Model.DeviceAssignments != null && Model.DeviceAssignments.Any())
+{
+    <h4>Devices</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th> Device Name</th>
+                <th>Description</th>
+                <th>Price</th>
+                </tr>
+        </thead>
+        <tbody>
+            @foreach (var deviceAssignment in Model.DeviceAssignments)
+            {
+                <tr>
+                    <td>@deviceAssignment.Device.Name</td>
+                    <td>@deviceAssignment.Device.Description</td>
+                    <td>@deviceAssignment.Device.Price</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

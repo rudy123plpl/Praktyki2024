@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\models\\deviceassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:models\\deviceassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\views\\device\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:views\\device\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\views\\assignment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:views\\assignment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\views\\assignment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:views\\assignment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\views\\order\\vieworders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:views\\order\\vieworders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|c:\\users\\filip\\desktop\\itshop\\itshop\\views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67B8BA30-CC4B-417B-8C59-FB837A574AAE}|ITshop.csproj|solutionrelative:views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\OrderViewModel.cs",
+              "RelativeToolTip": "Models\\OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:40:21.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:40:18.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\IRepository.cs",
+              "RelativeToolTip": "Models\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:40:14.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:40:12.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeviceAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\DeviceAssignment.cs",
+              "RelativeDocumentMoniker": "Models\\DeviceAssignment.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\DeviceAssignment.cs",
+              "RelativeToolTip": "Models\\DeviceAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:40:08.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\Assignment.cs",
+              "RelativeToolTip": "Models\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:40:03.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:40:01.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:49:34.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\Repository.cs",
+              "RelativeToolTip": "Models\\Repository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:03:08.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Models\\Device.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\Device.cs",
+              "RelativeToolTip": "Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:28:34.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "Controllers\\DeviceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:26:03.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Views\\Device\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Device\\AddEdit.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Views\\Device\\AddEdit.cshtml",
+              "RelativeToolTip": "Views\\Device\\AddEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T15:57:32.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Controllers\\AssignmentController.cs",
+              "RelativeToolTip": "Controllers\\AssignmentController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:59:30.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Views\\Assignment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Assignment\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Views\\Assignment\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Assignment\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T15:59:11.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Views\\Order\\ViewOrders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\ViewOrders.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Views\\Order\\ViewOrders.cshtml",
+              "RelativeToolTip": "Views\\Order\\ViewOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T12:50:23.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:38:04.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Views\\Assignment\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Assignment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Views\\Assignment\\Index.cshtml",
+              "RelativeToolTip": "Views\\Assignment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T17:04:25.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Views\\Order\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\ITshop\\ITshop\\Views\\Order\\Cart.cshtml",
+              "RelativeToolTip": "Views\\Order\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T12:49:49.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

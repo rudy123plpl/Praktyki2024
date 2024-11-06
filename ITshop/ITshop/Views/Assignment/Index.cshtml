@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Assignment>
+@{
+    ViewBag.Title = "List of shop Assignments";
+}
+
+<h1>Assignments</h1>
+<a asp-action="Create">Create new Assignment</a>
+<table class="table">
+    <thead>
+<tr>
+    <th>
+        @Html.DisplayNameFor(model => model.Name)
+    </th>
+    <th></th>
+</tr>
+    </thead>
+    <tbody>
+        @foreach(Assignment i in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(ModelItem => i.Name)
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@i.AssignmentId">Details</a>
+                    <a asp-action="Delete" asp-route-id="@i.AssignmentId">Delete</a>
+                     <a asp-action="Edit" asp-route-id="@i.AssignmentId">Edit</a>
+                </td>
+            </tr>
+        }
+        
+    </tbody>
+</table>
